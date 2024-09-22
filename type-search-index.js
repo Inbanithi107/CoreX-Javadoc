@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Com.CoreX.Calculation","l":"SimpleCalculation"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.CoreX.Converter","l":"Convert"},{"p":"com.CoreX.Converter","l":"DataTypeConverter"},{"p":"com.CoreX.Calculatiom","l":"SimpleCalculation"},{"p":"com.CoreX","l":"Test"}];updateSearchResults();
