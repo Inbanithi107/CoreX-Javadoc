@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.CoreX"},{"l":"com.CoreX.Calculatiom"},{"l":"com.CoreX.Converter"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.CoreX"},{"l":"com.CoreX.Arrays"},{"l":"com.CoreX.Calculatiom"},{"l":"com.CoreX.Converter"},{"l":"com.CoreX.Scanner"},{"l":"com.CoreX.Strings"}];updateSearchResults();
